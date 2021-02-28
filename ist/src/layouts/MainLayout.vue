@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          InternetSpeedTest App
         </q-toolbar-title>
 
         <Networkinfo />
