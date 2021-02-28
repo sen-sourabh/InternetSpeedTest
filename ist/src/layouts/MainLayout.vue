@@ -53,15 +53,15 @@ import Networkinfo from '../components/InternetSpeed/networkinfo.vue';
 const linksData = [
   {
     title: 'Docs',
-    caption: 'quasar.dev',
+    caption: 'Documentation',
     icon: 'school',
-    link: 'https://quasar.dev'
+    link: 'https://github.com/sen-sourabh/InternetSpeedTest'
   },
   {
     title: 'Github',
-    caption: 'github.com/quasarframework',
+    caption: 'GitHub',
     icon: 'code',
-    link: 'https://github.com/quasarframework'
+    link: 'https://github.com/sen-sourabh/InternetSpeedTest'
   },
   // {
   //   title: 'Discord Chat Channel',
